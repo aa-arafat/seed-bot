@@ -1,0 +1,1 @@
+query_id=AAGNS2F0AAAAAI1LYXTzBHZT&user=%7B%22id%22%3A1952533389%2C%22first_name%22%3A%22Arafat%20%F0%9F%8D%85%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22arafat1792%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729417928&hash=746a2340dded0e588b56c7ace5584feb62361f008798e5e8f38d26f5ab861dce
